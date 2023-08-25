@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![audrhks29's GitHub stats](https://github-readme-stats.vercel.app/api?username=audrhks29&show_icons=true&theme=transparent)
 <!--
 **audrhks29/audrhks29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
