@@ -29,3 +29,12 @@
 [사이트 바로가기](https://audrhks29.github.io/ManCity/dist/)
 
 ![녹화_2023_08_25_10_37_14_158](https://github.com/audrhks29/ManCity/assets/130128690/8e8f015d-7c90-478d-b373-e2d9993ec924)
+
+### 1. Semoseo
+
+### 사용된 기술
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=audrhks29&repo=Semoseo)](https://github.com/audrhks29/Semoseo)
+
+[사이트 바로가기](https://audrhks29.github.io/Semoseo/dist/)
