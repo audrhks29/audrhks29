@@ -29,6 +29,7 @@
 [사이트 바로가기](https://audrhks29.github.io/ManCity/dist/)
 
 ![녹화_2023_08_25_10_37_14_158](https://github.com/audrhks29/ManCity/assets/130128690/8e8f015d-7c90-478d-b373-e2d9993ec924)
+
 ---
 ### 2. Semoseo
 
@@ -46,6 +47,8 @@
 
 [사이트 바로가기](https://audrhks29.github.io/Semoseo/dist/)
 
+![screencapture-audrhks29-github-io-Semoseo-dist-2023-09-13-19_57_03](https://github.com/audrhks29/Semoseo/assets/130128690/31ec92da-0dce-4f01-b96e-67a839752363)
+
 ---
 ### 3. ElectCar
 
@@ -56,3 +59,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=audrhks29&repo=ElectCar)](https://github.com/audrhks29/ElectCar)
 
 [사이트 바로가기](https://audrhks29.github.io/ElectCar/dist/)
+
+![screencapture-audrhks29-github-io-ElectCar-dist-2023-09-13-19_59_27](https://github.com/audrhks29/ElectCar/assets/130128690/5d9cd28a-fd3f-453e-aeb4-b112d38a8cd9)
