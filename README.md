@@ -27,7 +27,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=audrhks29&repo=Mancity)](https://github.com/audrhks29/ManCity)
 
 [사이트 바로가기](https://audrhks29.github.io/ManCity/dist/)
-
 ![녹화_2023_08_25_10_37_14_158](https://github.com/audrhks29/ManCity/assets/130128690/8e8f015d-7c90-478d-b373-e2d9993ec924)
 ---
 ### 2. Semoseo
