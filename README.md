@@ -20,6 +20,10 @@
 ## 포트폴리오
 
 ### 1. Mancity
+
+### 사용된 기술
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=audrhks29&repo=Mancity)](https://github.com/audrhks29/ManCity)
 
 [사이트 바로가기](https://audrhks29.github.io/ManCity/dist/)
