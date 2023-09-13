@@ -29,7 +29,7 @@
 [사이트 바로가기](https://audrhks29.github.io/ManCity/dist/)
 
 ![녹화_2023_08_25_10_37_14_158](https://github.com/audrhks29/ManCity/assets/130128690/8e8f015d-7c90-478d-b373-e2d9993ec924)
-
+---
 ### 2. Semoseo
 
 **초기 로그인**
@@ -45,8 +45,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=audrhks29&repo=Semoseo)](https://github.com/audrhks29/Semoseo)
 
 [사이트 바로가기](https://audrhks29.github.io/Semoseo/dist/)
-
-
+---
 ### 3. ElectCar
 
 ### 사용된 기술
