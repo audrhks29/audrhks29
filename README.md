@@ -61,3 +61,14 @@
 [사이트 바로가기](https://audrhks29.github.io/ElectCar/dist/)
 
 ![screencapture-audrhks29-github-io-ElectCar-dist-2023-09-13-19_59_27](https://github.com/audrhks29/ElectCar/assets/130128690/5d9cd28a-fd3f-453e-aeb4-b112d38a8cd9)
+
+---
+
+### 4. Forment(진행중)
+
+### 사용된 기술
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/zustand-999999?style=flat-square&logo=react&logoColor=black">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=audrhks29&repo=Forment)](https://github.com/audrhks29/Forment)
+
