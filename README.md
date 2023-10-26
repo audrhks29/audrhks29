@@ -73,3 +73,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=audrhks29&repo=Forment)](https://github.com/audrhks29/Forment)
 
+[사이트 바로가기](https://audrhks29.github.io/Forment/dist)
+
+![3e792b09-5cb7-4907-a879-63d0d97b131b](https://github.com/audrhks29/Forment/assets/130128690/db66d093-43a7-4b45-81af-edd38e91d368)
+
