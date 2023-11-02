@@ -10,7 +10,7 @@
 
 <h2>✨ Portfolio </h2>
 
-📌 Portfolio Page 👉 [Go to Site](https://audrhks29.github.io/porfilio/dist)
+📌 Portfolio Page 👉 [Go to Site](https://audrhks29.github.io/porfolio/dist)
 
 📌 PDF File Download 👉 [이명관 포트폴리오.pdf](https://github.com/audrhks29/audrhks29/files/13242873/default.pdf)
 
