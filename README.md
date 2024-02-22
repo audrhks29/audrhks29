@@ -14,6 +14,8 @@
 
 📌 Notion Link 👉 [Go to Site](https://myungkwans.notion.site/0776aeb1017347aaa70e153a9a3b612e)
 
+📌 Velog Link 👉 [Go to Site](https://velog.io/@myungkwan/posts)
+
 ---
 </div>
 <div align="center">
