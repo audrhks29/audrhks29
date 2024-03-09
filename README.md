@@ -12,7 +12,7 @@
 
 <h2>✨ Portfolio </h2>
 
-📌 Portfolio Page 👉 [Go to Site](https://audrhks29.github.io/portfolio/dist)
+📌 Portfolio Page 👉 [Go to Site](https://portfolio-b85gnx9nq-myunkwan-lees-projects.vercel.app/)
 
 📌 Notion Link 👉 [Go to Site](https://myungkwans.notion.site/0776aeb1017347aaa70e153a9a3b612e)
 
