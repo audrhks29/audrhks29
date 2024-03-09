@@ -16,7 +16,7 @@
 
 📌 Notion Link 👉 [Go to Site](https://myungkwans.notion.site/0776aeb1017347aaa70e153a9a3b612e)
 
-📌 Develope Blog Link 👉 [Go to Site](https://frontendmk.tistory.com/)
+📌 Develop Blog Link 👉 [Go to Site](https://frontendmk.tistory.com/)
 
 ---
 </div>
