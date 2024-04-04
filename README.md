@@ -1,6 +1,4 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=999999&fontColor=ffffff&height=300&section=header&animation=scaleIn&text=audrhks29's%20Hub&fontSize=60&fontAlignY=38&desc=프론트엔드%20개발자를%20꿈꾸는%20이명관%20입니다&descAlignY=52&descAlign=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=999999&fontColor=ffffff&height=300&section=header&animation=scaleIn&text=audrhks29's%20Hub&fontSize=60&fontAlignY=38&desc=프론트엔드%20개발자를%20꿈꾸는%20이명관%20입니다&descAlignY=52&descAlign=55)
 <div align="left">
   <p>🏫 대학교 재학 중, 웹 기획 및 디자인 과정을 배웠습니다. 회사 퇴직 후 본격적으로 웹프로그래밍 언어 공부를 시작하였습니다.</p>
   <p>🐥 빈 화면에 무언가를 만들어가는 것에 흥미를 느끼고 있습니다.</p>
@@ -8,6 +6,20 @@
   <p>✔️ 체크리스트를 만들어서 프로젝트를 진행하는 꼼꼼함을 지니고 있습니다.</p>
   <p>💡 새로운 것을 배우는데 흥미를 느끼고 있으며, 발전하기 위해 최선을 다하고 있습니다.</p>
 </div>
+
+---
+
+<div align="left">
+<h2>⚒️ Skill </h2>
+  
+|            | 이름                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 라이브러리 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/zustand-999999?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=black"> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white"> |
+| 프레임워크 | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black"> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white">                                                                                                                                                                                                            |
+| 언어       | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white">                                                                                                                                                                                                                                                                                                                   |
+| 배포       | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=black"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Netlify&logoColor=white">                                                                                                                                                                                                                                                                                                                             |
+| 인증       | <img src="https://img.shields.io/badge/firebase Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black">                                                                                                                                                                                                                                                                                                                       |
+| db         | <img src="https://img.shields.io/badge/firebase Realtime Database-FFCA28?style=flat-square&logo=firebase&logoColor=black">                                                                                                                                      
 
 
 <h2>✨ Portfolio </h2>
