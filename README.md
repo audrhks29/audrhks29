@@ -24,7 +24,9 @@
 |`AWS`|<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Amazone_S3-569A31?style=flat-square&logo=amazons3&logoColor=white">  |
 <h2>✨ Portfolio </h2>
 
-📌 Portfolio Page 👉 [Go to Site](https://portfolio-pi-eight-72.vercel.app/)
+<!-- 📌 Portfolio Page 👉 [Go to Site](https://portfolio-pi-eight-72.vercel.app/)-->
+
+📌 Portfolio PDF 👉 [Download](https://github.com/audrhks29/HR_management/files/15497141/portfolio.pdf)
 
 📌 Notion Link 👉 [Go to Site](https://myungkwans.notion.site/0776aeb1017347aaa70e153a9a3b612e)
 
