@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=999999&fontColor=ffffff&height=300&section=header&animation=scaleIn&text=audrhks29's%20Hub&fontSize=60&fontAlignY=38&desc=프론트엔드%20개발자를%20꿈꾸는%20이명관%20입니다&descAlignY=52&descAlign=55)
-<div align="left">
+
+<div>
   <p>🐥 빈 화면에 무언가를 만들어가는 것에 흥미를 느끼고 있습니다.</p>
   <p>⚠️ 문제를 반드시 해결하려고 하는 책임감을 가지고 있으며, 해결 능력에 대한 자부심이 있습니다.</p>
   <p>✔️ 체크리스트를 만들어서 프로젝트를 진행하는 꼼꼼함을 지니고 있습니다.</p>
