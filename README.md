@@ -27,7 +27,8 @@
 
 <!--📌 Portfolio PDF 👉 [Download](https://github.com/audrhks29/HR_management/files/15497141/portfolio.pdf)-->
 
-📌 Notion Link 👉 [Go to Site](https://myungkwans.notion.site/0776aeb1017347aaa70e153a9a3b612e)
+📌 Potfolio Link 👉 [Download](https://github.com/user-attachments/files/16044750/_.pdf)
+
 
 📌 Develop Blog Link 👉 [Go to Site](https://frontendmk.tistory.com/)
 
