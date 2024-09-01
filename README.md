@@ -27,7 +27,7 @@
 
 <!--📌 Portfolio PDF 👉 [Download](https://github.com/audrhks29/HR_management/files/15497141/portfolio.pdf)-->
 
-📌 Potfolio Link 👉 [Download](https://github.com/user-attachments/files/16044750/_.pdf)
+📌 Potfolio Link 👉 [Download](https://github.com/user-attachments/files/16828941/_.pdf)
 
 
 📌 Develop Blog Link 👉 [Go to Site](https://frontendmk.tistory.com/)
