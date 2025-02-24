@@ -6,16 +6,8 @@
   <p>💡 새로운 것을 배우는데 흥미를 느끼고 있으며, 발전하기 위해 최선을 다하고 있습니다.</p>
 </div>
 <div>
-<h2>✨ Portfolio </h2>
-
-<!-- 📌 Portfolio Page 👉 [Go to Site](https://portfolio-pi-eight-72.vercel.app/)-->
-
-<!--📌 Portfolio PDF 👉 [Download](https://github.com/audrhks29/HR_management/files/15497141/portfolio.pdf)-->
-
-📌 Potfolio Link 👉 [Download](https://github.com/user-attachments/files/16828941/_.pdf)
 
 
-📌 Develop Blog Link 👉 [Go to Site](https://frontendmk.tistory.com/)
   
 </div>
 <div align="center">
